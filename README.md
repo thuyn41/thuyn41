@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **thuyn41/thuyn41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on reinforcing my understanding of Data Structures and exploring new coding languages.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate on C/C++ projects.
+- 🤔 I’m looking for help with Machine Learning.
+- 📫 Reach me by sending a message to my Linkedin.
+- ⚡ Fun fact: I like videogames.
